@@ -1,0 +1,15 @@
+.container-fluid{
+    border-color: #5fadb8 !important;
+    color:white;
+
+}
+
+.col-lg-12{
+    
+}
+.card-header{
+    background-color: #84d1dd;
+}
+.card-body{
+    background-color: #347781;
+}
